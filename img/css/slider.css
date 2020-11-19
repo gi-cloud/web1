@@ -1,0 +1,35 @@
+#particulas-js {
+    /background: paleturquoise;/
+    background: url(../img/frutas1.jpg);
+    background-position:center ;
+    background-attachment: contain;
+    background-size: cover;
+    width:100%
+}  
+
+.ancho-letras{
+    /background: #c70039;/
+    top: 200px;
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    z-index: 1;
+}
+
+.letras-slider{
+    /background: #ffbd69;/
+    width: 80%;
+    text-align: center;
+    margin: auto;
+}
+
+.letras-slider h1{
+    color:#fff;
+    font-size: 30px;
+}
+
+.letras-slider p{
+    background: rgba(63,127,191,0.50);
+    color: #fff;
+    font-size: 30px;
+    padding:20px;
